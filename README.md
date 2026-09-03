@@ -14,7 +14,7 @@ My goal is to combine my technical background with data analysis to transform in
 
 <p align="left">
   <a href="https://github.com/melissamarc">
-    <img src="https://img.shields.io/badge/GitHub-MELISSAMAR-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-MELISSAMARC-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/melissa-marcielo-527994284">
     <img src="https://img.shields.io/badge/LinkedIn-MELISSA%20MARCIELLO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
